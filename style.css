@@ -151,11 +151,90 @@ div.if63{
 	background-color: #fff;
 }
 div.if7{
-	width: 30px;
-	height: 15px;
-	border-top-left-radius: 17px;
-	border-top-right-radius: 17px;
+	width: 37px;
+	height: 16px;
+	border-top-left-radius: 22px;
+	border-top-right-radius: 22px;
 	background-color:#9b1104;
-	margin-left: 18px;
-	margin-top: 28px; 
+	margin-left: 23px;
+	margin-top: 30px; 
+	padding: 2px;
+}
+div.if71{
+	width: 29px;
+	height: 10px;
+	border-top-left-radius: 20px;
+	border-top-right-radius: 20px;
+	background-color: #fff;
+	margin-top: 1px;
+	margin-left: 2px;
+	padding: 2px;
+
+}
+div.if72{
+	width: 2px;
+    height: 9px;
+    background-color: #9b1104;
+    -webkit-transform: rotate(-28deg);
+    margin-top: 4px;
+    float: left;
+}
+div.if73{
+	 width: 2px;
+    height: 16px;
+    background-color: #9b1104;
+    float: left;
+    -webkit-transform: rotate(16deg);
+    margin-left: 3px;
+    margin-top: -3px;
+}
+div.if74{
+	width: 2px;
+    height: 17px;
+    background-color: #9b1104;
+    float: left;
+    -webkit-transform: rotate(-18DEG);
+    margin-left: 3px;
+    margin-top: -2px;
+}
+div.if75{
+	 width: 2px;
+    height: 17px;
+    background-color: #9b1104;
+    float: left;
+    -webkit-transform: rotate(20deg);
+    margin-left: 4px;
+    margin-top: -3px;
+}
+div.if76{
+	width: 2px;
+    height: 16px;
+    background-color: #9b1104;
+    float: left;
+    -webkit-transform: rotate(-17deg);
+    margin-left: 4px;
+    margin-top: -3px;
+}
+div.if77{
+	width: 2px;
+    height: 11px;
+    background-color: #9b1104;
+    float: left;
+    -webkit-transform: rotate(21deg);
+    margin-left: 3px;
+    margin-top: 2px;
+}
+div.icon2{
+	width					: 80px;
+	height 					: 80px;
+	background 				: radial-gradient(center center, #ffb536,#e4831a 20%);
+	background 				: -o-radial-gradient(center center, #ffb536,#e4831a 60%);
+  	background 				: -ms-radial-gradient(center center, #ffb536,#e4831a 60%);
+ 	background 				: -moz-radial-gradient(center center, #ffb536, #e4831a 60%);
+  	background 				: -webkit-radial-gradient(10px 10px,#ffb536,#e4831a 60%);
+	border-radius			: 30px;
+	float					: left;
+	margin-left				: 50px;
+	margin-top				: 40px;
+	position: relative;
 }
