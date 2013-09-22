@@ -24,205 +24,197 @@ div.icon1{
 	position: relative;
 }
 div.if1{
-	width: 30px;
-	height: 11px;
-	margin-left:8px;
-	border-radius: 22px 1px 45px 17px;
-	background-color: #fff;
-	opacity: 0.2;
-	margin-top: 11px;
-	-webkit-transform:rotate(-14deg);
+	width 					: 30px;
+	height 					: 11px;
+	margin-left 			:8px;
+	border-radius 			: 22px 1px 45px 17px;
+	background-color 		: #fff;
+	opacity 				: 0.2;
+	margin-top 				: 11px;
+	-webkit-transform 		:rotate(-14deg);
 }
 div.if2{
-	width: 25px;
-	height: 5px;
-	background-color: #9b1303;
-	position: relative;
+	width 					: 25px;
+	height 					: 5px;
+	background-color 		: #9b1303;
+	position 				: relative;
 }	
 div.left1{
-	width: 0; 
-	height: 0; 
-	border-top: 2px solid transparent;
-	border-bottom: 1px solid transparent;
-	border-left:25px solid #9b1303;
-	margin-top: -2px;
-	position: absolute;
+	width 					: 0; 
+	height 					: 0; 
+	border-top 				: 2px solid transparent;
+	border-bottom 			: 1px solid transparent;
+	border-left 			:25px solid #9b1303;
+	margin-top 				: -2px;
+	position 				: absolute;
 }
 div.ab1{
-	-webkit-transform:rotate(9deg);
-	left: 15px;
-	position: absolute;
+	-webkit-transform 		:rotate(9deg);
+	left 					: 15px;
+	position 				: absolute;
 }
 div.if3{
-	width: 25px;
-	height: 5px;
-	background-color: #9b1303;
-	position: relative;
+	width 					: 25px;
+	height 					: 5px;
+	background-color 		: #9b1303;
+	position 				: relative;
 }
 div.left2{
-	width: 0; 
-	height: 0; 
-	border-top: 2px solid transparent;
-	border-bottom: 1px solid transparent;
-	border-right:25px solid #9b1303;
-	margin-top: -2px;
-	position: absolute;
+	width 					: 0; 
+	height 					: 0; 
+	border-top 				: 2px solid transparent;
+	border-bottom 			: 1px solid transparent;
+	border-right 			:25px solid #9b1303;
+	margin-top 				: -2px;
+	position 				: absolute;
 }
 div.ab2{
-	right: 15px;
-	-webkit-transform:rotate(-18deg);
-	margin-top: -3px;
-	position: absolute;
+	right 					: 15px;
+	-webkit-transform 		:rotate(-18deg);
+	margin-top 				: -3px;
+	position 				: absolute;
 }
-/*div.if4{
-	width: 1px;
-	height: 12px;
-	position: absolute;
-	background-color: #9b1303;
-	margin-top: -10px;
-	margin-left: 38px;
-}*/
 div.if5{
-	width: 25px;
-	height: 25px;
-	background-color: #b12109;
-	border-radius: 15px;
-	left: 21px;
-	margin-top: 1px;
-	position: absolute;
+	width 					: 25px;
+	height 					: 25px;
+	background-color 		: #b12109;
+	border-radius 			: 15px;
+	left 					: 21px;
+	margin-top 				: 1px;
+	position 				: absolute;
 }
 div.if51{
-	width: 18px;
-	height: 18px;
-	background-color: #fff;
-	border-radius: 10px;
-	position: absolute;
-	margin-top: 3px;
-	margin-left: 3px;
+	width 					: 18px;
+	height 					: 18px;
+	background-color 		: #fff;
+	border-radius 			: 10px;
+	position 				: absolute;
+	margin-top 				: 3px;
+	margin-left 			: 3px;
 }
 div.if52{
-	width: 9px;
-	height: 8px ;
-	background-color: #000;
-	border-radius: 6px;
-	position: absolute;
-	margin-top: 3px;
-	border: 2px solid #b12109;
-	margin-left: 2px;
+	width 					: 9px;
+	height 					: 8px ;
+	background-color 		: #000;
+	border-radius 			: 6px;
+	position 				: absolute;
+	margin-top 				: 3px;
+	border 					: 2px solid #b12109;
+	margin-left 			: 2px;
 }
 div.if53{
-	width: 2px;
-	height: 2px;
-	border-radius: 1px;
-	position: absolute;
-	background-color: #fff;
+	width 					: 2px;
+	height 					: 2px;
+	border-radius 			: 1px;
+	position 				: absolute;
+	background-color 		: #fff;
 }
 div.if6{
-	width: 20px;
-	height: 20px;
-	background-color: #b12109;
-	border-radius: 10px;
-	right: 17px;
-	margin-top: 1px;
-	position: absolute;
+	width 					: 20px;
+	height 					: 20px;
+	background-color 		: #b12109;
+	border-radius 			: 10px;
+	right 					: 17px;
+	margin-top 				: 1px;
+	position 				: absolute;
 }
 div.if61{
-	width: 14px;
-	height: 14px;
-	background-color: #fff;
-	border-radius: 7px;
-	position: absolute;
-	margin-top: 3px;
-	margin-left: 3px;
+	width 					: 14px;
+	height 					: 14px;
+	background-color 		: #fff;
+	border-radius 			: 7px;
+	position 				: absolute;
+	margin-top 				: 3px;
+	margin-left 			: 3px;
 }
 div.if62{
-	width: 6px;
-	height: 6px;
-	background-color: #000;
-	border-radius: 6px;
-	border:2px solid #b12109;
-	margin-top: 1.5px;
-	margin-left: 2px;
+	width 					: 6px;
+	height 					: 6px;
+	background-color 		: #000;
+	border-radius 			: 6px;
+	border 					:2px solid #b12109;
+	margin-top 				: 1.5px;
+	margin-left 			: 2px;
 }
 div.if63{
-	width: 1px;
-	height: 1px;
-	border-radius: 1px;
-	background-color: #fff;
+	width 					: 1px;
+	height 					: 1px;
+	border-radius 			: 1px;
+	background-color 		: #fff;
 }
 div.if7{
-	width: 37px;
-	height: 16px;
-	border-top-left-radius: 22px;
-	border-top-right-radius: 22px;
-	background-color:#9b1104;
-	margin-left: 23px;
-	margin-top: 30px; 
-	padding: 2px;
+	width 					: 37px;
+	height 					: 16px;
+	border-top-left-radius 	: 22px;
+	border-top-right-radius : 22px;
+	background-color 		:#9b1104;
+	margin-left 			: 23px;
+	margin-top 				: 30px; 
+	padding 				: 2px;
 }
 div.if71{
-	width: 29px;
-	height: 10px;
-	border-top-left-radius: 20px;
-	border-top-right-radius: 20px;
-	background-color: #fff;
-	margin-top: 1px;
-	margin-left: 2px;
-	padding: 2px;
+	width 					: 29px;
+	height 					: 10px;
+	border-top-left-radius 	: 20px;
+	border-top-right-radius : 20px;
+	background-color 		: #fff;
+	margin-top 				: 1px;
+	margin-left 			: 2px;
+	padding 				: 2px;
 
 }
 div.if72{
-	width: 2px;
-    height: 9px;
-    background-color: #9b1104;
-    -webkit-transform: rotate(-28deg);
-    margin-top: 4px;
-    float: left;
+	width 					: 2px;
+    height 					: 9px;
+    background-color 		: #9b1104;
+    -webkit-transform 		: rotate(-28deg);
+    margin-top 				: 4px;
+    float 					: left;
 }
 div.if73{
-	 width: 2px;
-    height: 16px;
-    background-color: #9b1104;
-    float: left;
-    -webkit-transform: rotate(16deg);
-    margin-left: 3px;
-    margin-top: -3px;
+	 width 					: 2px;
+    height 					: 16px;
+    background-color 		: #9b1104;
+    float 					: left;
+    -webkit-transform 		: rotate(16deg);
+    margin-left 			: 3px;
+    margin-top 				: -3px;
 }
 div.if74{
-	width: 2px;
-    height: 17px;
-    background-color: #9b1104;
-    float: left;
-    -webkit-transform: rotate(-18DEG);
-    margin-left: 3px;
-    margin-top: -2px;
+	width 					: 2px;
+    height 					: 17px;
+    background-color 		: #9b1104;
+    float 					: left;
+    -webkit-transform 		: rotate(-18DEG);
+    margin-left 			: 3px;
+    margin-top 				: -2px;
 }
 div.if75{
-	 width: 2px;
-    height: 17px;
-    background-color: #9b1104;
-    float: left;
-    -webkit-transform: rotate(20deg);
-    margin-left: 4px;
-    margin-top: -3px;
+	width 					: 2px;
+    height 					: 17px;
+    background-color 		: #9b1104;
+    float 					: left;
+    -webkit-transform 		: rotate(20deg);
+    margin-left 			: 4px;
+    margin-top 				: -3px;
 }
 div.if76{
-	width: 2px;
-    height: 16px;
-    background-color: #9b1104;
-    float: left;
-    -webkit-transform: rotate(-17deg);
-    margin-left: 4px;
-    margin-top: -3px;
+	width 					: 2px;
+    height 					: 16px;
+    background-color 		: #9b1104;
+    float 					: left;
+    -webkit-transform 		: rotate(-17deg);
+    margin-left 			: 4px;
+    margin-top 				: -3px;
 }
 div.if77{
-	width: 2px;
-    height: 11px;
-    background-color: #9b1104;
-    float: left;
-    -webkit-transform: rotate(21deg);
-    margin-left: 3px;
-    margin-top: 2px;
+	width 					: 2px;
+    height 					: 11px;
+    background-color 		: #9b1104;
+    float 					: left;
+    -webkit-transform 		: rotate(21deg);
+    margin-left 			: 3px;
+    margin-top 				: 2px;
 }
 div.icon2{
 	width					: 80px;
@@ -236,146 +228,146 @@ div.icon2{
 	float					: left;
 	margin-left				: 50px;
 	margin-top				: 40px;
-	position: relative;
+	position 				: relative;
 }
 div.if8{
-	width: 40px;
-    height: 40px;
-    background-color: #f16818;
-    border-radius: 20px;
-    margin-top: -17px;
-    margin-left: 18px;
-    padding: 1px;
+	width 					: 40px;
+    height 					: 40px;
+    background-color 		: #f16818;
+    border-radius 			: 20px;
+    margin-top 				: -17px;
+    margin-left 			: 18px;
+    padding 				: 1px;
 }
 div.if9{
-	width: 30px;
-    height: 30px;
-    background-color: #fff;
-    border-radius: 15px;
-    margin-top: 3px;
-    padding: 1px;
-    margin-left: 4px;
+	width 					: 30px;
+    height 					: 30px;
+    background-color 		: #fff;
+    border-radius 			: 15px;
+    margin-top 				: 3px;
+    padding 				: 1px;
+    margin-left 			: 4px;
 }
 div.if10{
-	width: 24px;
-	height: 24px;
-	padding: 1px;
+	width 					: 24px;
+	height 					: 24px;
+	padding 				: 1px;
 	background 				: radial-gradient(bottom center, #ffb536,#e4831a 20%);
 	background 				: -o-radial-gradient(bottom center, #ffb536,#e4831a 60%);
   	background 				: -ms-radial-gradient(bottom center, #ffb536,#e4831a 60%);
  	background 				: -moz-radial-gradient(bottom center, #ffb536, #e4831a 60%);
   	background 				: -webkit-radial-gradient(10px 10px,#ffb536,#e4831a 60%);
-  	border-radius: 15px;
-  	margin-left: 2px;
-  	margin-top: 2px;
+  	border-radius 			: 15px;
+  	margin-left 			: 2px;
+  	margin-top 				: 2px;
 }
 div.if11{
-	width: 16px;
-	height: 16px;
-	padding: 1px;
-	background-color: #000;
-	border-radius: 13px;
-	margin-left: 3px;
-	margin-top: 3px;
+	width 					: 16px;
+	height 					: 16px;
+	padding 				: 1px;
+	background-color 		: #000;
+	border-radius 			: 13px;
+	margin-left 			: 3px;
+	margin-top 				: 3px;
 }
 div.if12{
-	width: 3px;
-	height: 3px;
-	background-color: #fff;
-	border-radius: 2px;
-	margin-top: 2px;
-	margin-left: 1px;
+	width 					: 3px;
+	height 					: 3px;
+	background-color 		: #fff;
+	border-radius 			: 2px;
+	margin-top 				: 2px;
+	margin-left  			: 1px;
 }
 div.if13,
 div.if14{
-	width: 54px;
-	height: 54px;
-	border:transparent solid 7px;
-	border-bottom-color:#e72b06;
-	position: absolute;
-	border-radius: 50%;
-	margin-left:6px;
+	width 					: 54px;
+	height 					: 54px;
+	border 					:transparent solid 7px;
+	border-bottom-color 	:#e72b06;
+	position 				: absolute;
+	border-radius 			: 50%;
+	margin-left 			:6px;
 }
 div.if13{
-	margin-top: -52px;
+	margin-top 				: -52px;
 }
 div.if14{
-	margin-top: -45px
+	margin-top 				: -45px
 }
 div.if13a,
 div.if14a{
-	width: 6px;
-    height: 6px;
-    position: absolute;
-    background-color: #e72b06;
-    border-radius: 4px;
+	width 					: 6px;
+    height 					: 6px;
+    position 				: absolute;
+    background-color 		: #e72b06;
+    border-radius 			: 4px;
 }
 div.if13a{
- 	margin-top: 46px;
-    margin-left: 3px;
+ 	margin-top 				: 46px;
+    margin-left 			: 3px;
 }
 div.if14a{
-	margin-top: 46px;
-	margin-left: 3px;
+	margin-top 				: 46px;
+	margin-left 			: 3px;
 }
 div.if13b,
 div.if14b{
-	width: 6px;
-    height: 6px;
-    position: absolute;
-    background-color: #e72b06;
-    border-radius: 4px;
+	width 					: 6px;
+    height 					: 6px;
+    position 				: absolute;
+    background-color 		: #e72b06;
+    border-radius 			: 4px;
 }
 div.if13b{
-	margin-left: 45px;
-    margin-top: 46px;
+	margin-left 			: 45px;
+    margin-top 				: 46px;
 }
 div.if14b{
-	margin-left: 45px;
-	margin-top: 46px;
+	margin-left 			: 45px;
+	margin-top 				: 46px;
 }
 div.th1,
 div.th2{
-	width: 7px;
-	height: 6px;
-	position: absolute;
-	background-color: #fff;
-	border-top-right-radius: 8px;
-	border-top-left-radius: 8px;
+	width 					: 7px;
+	height 					: 6px;
+	position 				: absolute;
+	background-color 		: #fff;
+	border-top-right-radius : 8px;
+	border-top-left-radius : 8px;
 }
 div.th1{
-	margin-left: 24px;
-	margin-top: 8px;
+	margin-left 			: 24px;
+	margin-top 				: 8px;
 }
 div.th2{
-	margin-left: 46px;
-	margin-top: 9px;
+	margin-left 			: 46px;
+	margin-top 				: 9px;
 }
 div.circle1{
-width: 7px;
-height: 6px;
-position: absolute;
-background-color: #f26617;
-border-radius: 6px;
-margin-top: -8px;
-margin-left: 9px;
+	width 					: 7px;
+	height 					: 6px;
+	position 				: absolute;
+	background-color 		: #f26617;
+	border-radius 			: 6px;
+	margin-top 				: -8px;
+	margin-left 			: 9px;
 }
 div.circle2{
-	width: 4px;
-	height: 4px;
-	background-color: #f26617;
-	border-radius: 2px;
-	margin-left: 6px;
-	position: absolute;
+	width 					: 4px;
+	height 					: 4px;
+	background-color 		: #f26617;
+	border-radius 			: 2px;
+	margin-left 			: 6px;
+	position 				: absolute;
 }
 div.circle3{
-	width: 5px;
-	height: 5px;
-	background-color: #f26617;
-	border-radius: 3px;
-	margin-top: -14px;
-	position: absolute;
-	margin-left: 3px;
+	width 					: 5px;
+	height 					: 5px;
+	background-color 		: #f26617;
+	border-radius 			: 3px;
+	margin-top 				: -14px;
+	position 				: absolute;
+	margin-left 			: 3px;
 }
 div.circle4{
 	width: 5px;
@@ -395,7 +387,7 @@ div.circle5{
 	margin-left: 68px;
 	margin-top: -2px;
 }
-}
+
 div.circle6{
 	width: 3px;
 	height: 3px;
@@ -418,4 +410,105 @@ div.circle6{
 	margin-left				: 50px;
 	margin-top				: 40px;
 	position: relative;
+}
+div.if15{
+width: 22px;
+height: 20px;
+border-radius: 30px;
+border: 2px solid transparent;
+border-left-color: #ab3394;
+margin-top: -8px;
+margin-left: 8px;
+-webkit-transform: rotate(50deg);
+float: left;
+}
+div.if16{
+width: 22px;
+height: 20px;
+border: 2px solid transparent;
+border-radius: 12px;
+border-right-color: #ab3394;
+float: left;
+margin-top: -9px;
+margin-left: 8px;
+-webkit-transform: rotate(-56deg);
+}
+div.if17{
+width: 24px;
+height: 16px;
+margin-left: -56px;
+-webkit-transform: rotate(15deg);
+float: left;
+}
+div.if18{
+width: 24px;
+height: 10px;
+background-color: #9E3C8C;
+margin-top: 9px;
+-webkit-transform: rotate(27deg);
+}
+div.if19{
+width: 24px;
+height: 10px;
+background-color: #9E3C8C;
+margin-top: -10px;
+-webkit-transform: rotate(-69deg);
+}
+div.if20{
+width: 20px;
+height: 20px;
+background-color: white;
+float: left;
+border-radius: 18px;
+margin-top: -15px;
+margin-left: 7px;
+border: 3px solid #963884;
+}
+div.if21{
+width: 10px;
+height: 10PX;
+border-radius: 9PX;
+background-color: #000;
+border: 3PX solid #d973c7;
+margin-left: 2px;
+margin-top: 2px;
+}
+div.if22{
+	width: 45px;
+height: 21px;
+background-color: #8B3477;
+border-bottom-right-radius: 31px;
+border-bottom-left-radius: 30px;
+margin-top: 33px;
+margin-left: 18px;
+-webkit-transform: rotate(-14deg);
+padding: 1px;
+}
+div.if23{
+width: 39px;
+height: 17px;
+background-color: #000;
+border-bottom-left-radius: 38px;
+border-bottom-right-radius: 38px;
+margin-left: 3px;
+margin-top: 2px;
+}
+div.if24,
+div.if25,
+div.if26{
+	width: 10px;
+height: 6px;
+background-color: #fff;
+border-bottom-right-radius: 7px;
+border-bottom-left-radius: 7px;
+float: left;
+}
+div.if27{
+width: 9px;
+height: 6px;
+background-color: #fff;
+float: left;
+border-bottom-left-radius: 5px;
+border-bottom-right-radius: 5px;
+
 }
